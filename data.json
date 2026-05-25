@@ -1,5 +1,5 @@
 {
-  "asOf": "May 22, 2026 22:08 UTC",
+  "asOf": "May 25, 2026 17:08 UTC",
   "indices": {
     "spx": {
       "val": "7,473",
@@ -17,7 +17,7 @@
       "ytd": "+14.4%"
     },
     "vix": {
-      "val": "16.7",
+      "val": "16.59",
       "note": "calm \u00b7 normal"
     }
   },
@@ -81,7 +81,7 @@
     {
       "label": "2Y Treasury",
       "val": "4.20%",
-      "note": "spread: +98bps"
+      "note": "spread: +97bps"
     },
     {
       "label": "CPI (Jan YoY)",
@@ -96,7 +96,7 @@
     },
     {
       "label": "WTI Crude",
-      "val": "$97.0",
+      "val": "$96.6",
       "note": "real-time futures",
       "cls": "neg"
     }
@@ -152,7 +152,7 @@
     {
       "color": "#1d9e75",
       "text": "Volatility calm",
-      "sub": "VIX 16.7 \u2014 normal range"
+      "sub": "VIX 16.6 \u2014 normal range"
     },
     {
       "color": "#1d9e75",
@@ -167,11 +167,11 @@
     {
       "color": "#1d9e75",
       "text": "Yield curve steepening",
-      "sub": "10Y\u20132Y spread 98bps \u2014 normalizing"
+      "sub": "10Y\u20132Y spread 97bps \u2014 normalizing"
     }
   ],
   "yieldCurve": {
-    "bps": 98,
+    "bps": 97,
     "pct": 98
   },
   "perfChart": {
