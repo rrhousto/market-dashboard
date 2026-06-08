@@ -1,23 +1,23 @@
 {
-  "asOf": "Jun 8, 2026 17:57 UTC",
+  "asOf": "Jun 8, 2026 22:26 UTC",
   "indices": {
     "spx": {
-      "val": "7,426",
-      "chg": "+0.57%",
-      "ytd": "+8.3%"
+      "val": "7,406",
+      "chg": "+0.3%",
+      "ytd": "+8.0%"
     },
     "ndx": {
-      "val": "26,027",
-      "chg": "+1.24%",
-      "ytd": "+12.0%"
+      "val": "25,930",
+      "chg": "+0.86%",
+      "ytd": "+11.6%"
     },
     "rut": {
-      "val": "2,856",
-      "chg": "+0.8%",
-      "ytd": "+13.9%"
+      "val": "2,855",
+      "chg": "+0.77%",
+      "ytd": "+13.8%"
     },
     "vix": {
-      "val": "18.67",
+      "val": "18.92",
       "note": "calm \u00b7 normal"
     }
   },
@@ -28,19 +28,19 @@
     },
     {
       "name": "Tech",
-      "ytd": 28.5
+      "ytd": 27.8
     },
     {
       "name": "Industrials",
-      "ytd": 10.3
+      "ytd": 10.2
     },
     {
       "name": "Real Estate",
-      "ytd": 9.7
+      "ytd": 9.8
     },
     {
       "name": "Materials",
-      "ytd": 9.0
+      "ytd": 8.8
     },
     {
       "name": "Cons Staples",
@@ -56,15 +56,15 @@
     },
     {
       "name": "Cons Disc",
-      "ytd": -2.2
-    },
-    {
-      "name": "Financials",
-      "ytd": -4.7
+      "ytd": -2.3
     },
     {
       "name": "Comm Svcs",
-      "ytd": -4.8
+      "ytd": -4.7
+    },
+    {
+      "name": "Financials",
+      "ytd": -4.9
     }
   ],
   "macro": [
@@ -96,7 +96,7 @@
     },
     {
       "label": "WTI Crude",
-      "val": "$90.8",
+      "val": "$91.4",
       "note": "real-time futures",
       "cls": "neg"
     }
@@ -105,54 +105,54 @@
     {
       "sym": "AAPL",
       "name": "Apple Inc.",
-      "price": 308.83,
-      "chg": 0.48,
-      "m1": 7.5,
-      "m3": 18.5,
-      "dd": -2.0
+      "price": 301.54,
+      "chg": -1.89,
+      "m1": 5.0,
+      "m3": 15.7,
+      "dd": -4.3
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 208.9,
-      "chg": 1.85,
-      "m1": -1.1,
-      "m3": 13.2,
-      "dd": -11.3
+      "price": 208.64,
+      "chg": 1.73,
+      "m1": -1.2,
+      "m3": 13.1,
+      "dd": -11.4
     },
     {
       "sym": "MSFT",
       "name": "Microsoft Corporatio",
-      "price": 411.54,
-      "chg": -1.23,
-      "m1": -2.0,
-      "m3": 1.6,
+      "price": 411.74,
+      "chg": -1.18,
+      "m1": -1.9,
+      "m3": 1.7,
       "dd": -23.6
     },
     {
       "sym": "JPM",
       "name": "JP Morgan Chase & Co",
-      "price": 312.04,
-      "chg": -0.11,
-      "m1": 1.9,
-      "m3": 8.6,
-      "dd": -6.3
+      "price": 311.11,
+      "chg": -0.4,
+      "m1": 1.6,
+      "m3": 8.3,
+      "dd": -6.5
     },
     {
       "sym": "XOM",
       "name": "Exxon Mobil Corporat",
-      "price": 151.62,
-      "chg": 1.13,
-      "m1": 4.1,
-      "m3": 3.0,
-      "dd": -11.0
+      "price": 151.75,
+      "chg": 1.22,
+      "m1": 4.2,
+      "m3": 3.1,
+      "dd": -10.9
     }
   ],
   "signals": [
     {
       "color": "#1d9e75",
       "text": "Volatility calm",
-      "sub": "VIX 18.7 \u2014 normal range"
+      "sub": "VIX 18.9 \u2014 normal range"
     },
     {
       "color": "#1d9e75",
@@ -161,8 +161,8 @@
     },
     {
       "color": "#e24b4a",
-      "text": "Comm Svcs lagging YTD",
-      "sub": "-4.8% YTD \u2014 weakest sector"
+      "text": "Financials lagging YTD",
+      "sub": "-4.9% YTD \u2014 weakest sector"
     },
     {
       "color": "#1d9e75",
@@ -189,7 +189,7 @@
       94.08,
       103.89,
       109.24,
-      107.02
+      106.73
     ],
     "ndx": [
       100.0,
@@ -197,7 +197,7 @@
       92.02,
       106.1,
       114.96,
-      110.97
+      110.52
     ],
     "rut": [
       100.0,
@@ -205,7 +205,7 @@
       95.51,
       107.12,
       111.69,
-      109.28
+      109.25
     ]
   }
 }
