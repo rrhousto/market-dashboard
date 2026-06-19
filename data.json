@@ -1,5 +1,5 @@
 {
-  "asOf": "Jun 18, 2026 22:55 UTC",
+  "asOf": "Jun 19, 2026 17:20 UTC",
   "indices": {
     "spx": {
       "val": "7,501",
@@ -17,7 +17,7 @@
       "ytd": "+18.8%"
     },
     "vix": {
-      "val": "16.4",
+      "val": "16.78",
       "note": "calm \u00b7 normal"
     }
   },
@@ -96,7 +96,7 @@
     },
     {
       "label": "WTI Crude",
-      "val": "$75.4",
+      "val": "$76.5",
       "note": "real-time futures",
       "cls": "neg"
     }
@@ -152,7 +152,7 @@
     {
       "color": "#1d9e75",
       "text": "Volatility calm",
-      "sub": "VIX 16.4 \u2014 normal range"
+      "sub": "VIX 16.8 \u2014 normal range"
     },
     {
       "color": "#1d9e75",
