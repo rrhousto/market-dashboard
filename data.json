@@ -1,5 +1,5 @@
 {
-  "asOf": "Jul 2, 2026 22:05 UTC",
+  "asOf": "Jul 3, 2026 16:27 UTC",
   "indices": {
     "spx": {
       "val": "7,483",
@@ -17,7 +17,7 @@
       "ytd": "+19.4%"
     },
     "vix": {
-      "val": "16.15",
+      "val": "15.81",
       "note": "calm \u00b7 normal"
     }
   },
@@ -75,13 +75,13 @@
     },
     {
       "label": "10Y Treasury",
-      "val": "4.48%",
+      "val": "4.37%",
       "note": "real-time via yfinance"
     },
     {
       "label": "2Y Treasury",
-      "val": "4.12%",
-      "note": "spread: +81bps"
+      "val": "4.01%",
+      "note": "spread: +71bps"
     },
     {
       "label": "CPI (Jan YoY)",
@@ -96,7 +96,7 @@
     },
     {
       "label": "WTI Crude",
-      "val": "$68.5",
+      "val": "$68.6",
       "note": "real-time futures",
       "cls": "neg"
     }
@@ -152,7 +152,7 @@
     {
       "color": "#1d9e75",
       "text": "Volatility calm",
-      "sub": "VIX 16.1 \u2014 normal range"
+      "sub": "VIX 15.8 \u2014 normal range"
     },
     {
       "color": "#1d9e75",
@@ -167,12 +167,12 @@
     {
       "color": "#1d9e75",
       "text": "Yield curve steepening",
-      "sub": "10Y\u20132Y spread 81bps \u2014 normalizing"
+      "sub": "10Y\u20132Y spread 71bps \u2014 normalizing"
     }
   ],
   "yieldCurve": {
-    "bps": 81,
-    "pct": 90
+    "bps": 71,
+    "pct": 86
   },
   "perfChart": {
     "labels": [
