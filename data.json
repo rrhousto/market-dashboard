@@ -1,70 +1,70 @@
 {
-  "asOf": "Jul 6, 2026 17:45 UTC",
+  "asOf": "Jul 6, 2026 22:13 UTC",
   "indices": {
     "spx": {
-      "val": "7,526",
-      "chg": "+0.58%",
-      "ytd": "+9.7%"
+      "val": "7,537",
+      "chg": "+0.72%",
+      "ytd": "+9.9%"
     },
     "ndx": {
-      "val": "26,072",
-      "chg": "+0.93%",
-      "ytd": "+12.2%"
+      "val": "26,121",
+      "chg": "+1.12%",
+      "ytd": "+12.4%"
     },
     "rut": {
-      "val": "3,020",
-      "chg": "+0.79%",
-      "ytd": "+20.4%"
+      "val": "3,010",
+      "chg": "+0.45%",
+      "ytd": "+20.0%"
     },
     "vix": {
-      "val": "15.89",
+      "val": "15.57",
       "note": "calm \u00b7 normal"
     }
   },
   "sectors": [
     {
       "name": "Tech",
-      "ytd": 27.4
-    },
-    {
-      "name": "Energy",
-      "ytd": 18.3
+      "ytd": 27.5
     },
     {
       "name": "Industrials",
-      "ytd": 17.9
+      "ytd": 18.1
+    },
+    {
+      "name": "Energy",
+      "ytd": 18.0
     },
     {
       "name": "Materials",
-      "ytd": 12.8
+      "ytd": 13.6
     },
     {
       "name": "Real Estate",
-      "ytd": 11.2
+      "ytd": 11.4
     },
     {
       "name": "Cons Staples",
-      "ytd": 9.3
+      "ytd": 9.6
     },
     {
       "name": "Utilities",
-      "ytd": 6.2
+      "ytd": 6.3
     },
     {
       "name": "Health",
-      "ytd": 5.2
+      "ytd": 5.0
     },
     {
       "name": "Financials",
-      "ytd": 2.8
+      "ytd": 3.1
     },
     {
       "name": "Cons Disc",
-      "ytd": -0.1
+      "ytd": 0.1
     },
     {
       "name": "Comm Svcs",
-      "ytd": -5.5
+      "ytd": -5.2
     }
   ],
   "macro": [
@@ -96,7 +96,7 @@
     },
     {
       "label": "WTI Crude",
-      "val": "$68.4",
+      "val": "$68.7",
       "note": "real-time futures",
       "cls": "neg"
     }
@@ -105,64 +105,64 @@
     {
       "sym": "AAPL",
       "name": "Apple Inc.",
-      "price": 312.39,
-      "chg": 1.22,
-      "m1": 0.7,
-      "m3": 20.8,
-      "dd": -0.9
+      "price": 312.66,
+      "chg": 1.31,
+      "m1": 0.8,
+      "m3": 20.9,
+      "dd": -0.8
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 195.75,
-      "chg": 0.47,
-      "m1": -8.7,
-      "m3": 10.3,
-      "dd": -16.9
+      "price": 195.55,
+      "chg": 0.37,
+      "m1": -8.8,
+      "m3": 10.2,
+      "dd": -17.0
     },
     {
       "sym": "MSFT",
       "name": "Microsoft Corporatio",
-      "price": 385.14,
-      "chg": -1.37,
-      "m1": -9.9,
-      "m3": 3.5,
-      "dd": -28.5
+      "price": 386.74,
+      "chg": -0.96,
+      "m1": -9.5,
+      "m3": 3.9,
+      "dd": -28.2
     },
     {
       "sym": "JPM",
       "name": "JP Morgan Chase & Co",
-      "price": 336.7,
-      "chg": 0.67,
-      "m1": 11.9,
-      "m3": 14.0,
+      "price": 337.72,
+      "chg": 0.97,
+      "m1": 12.3,
+      "m3": 14.3,
       "dd": -0.0
     },
     {
       "sym": "XOM",
       "name": "ExxonMobil Holdings ",
-      "price": 136.87,
-      "chg": -0.16,
-      "m1": -10.3,
-      "m3": -15.6,
-      "dd": -19.6
+      "price": 136.44,
+      "chg": -0.47,
+      "m1": -10.6,
+      "m3": -15.9,
+      "dd": -19.9
     }
   ],
   "signals": [
     {
       "color": "#1d9e75",
       "text": "Volatility calm",
-      "sub": "VIX 15.9 \u2014 normal range"
+      "sub": "VIX 15.6 \u2014 normal range"
     },
     {
       "color": "#1d9e75",
       "text": "Tech leading YTD",
-      "sub": "+27.4% YTD \u2014 momentum sector"
+      "sub": "+27.5% YTD \u2014 momentum sector"
     },
     {
       "color": "#e24b4a",
       "text": "Comm Svcs lagging YTD",
-      "sub": "-5.5% YTD \u2014 weakest sector"
+      "sub": "-5.2% YTD \u2014 weakest sector"
     },
     {
       "color": "#1d9e75",
@@ -189,7 +189,7 @@
       104.8,
       110.19,
       109.02,
-      109.42
+      109.57
     ],
     "ndx": [
       100.0,
@@ -197,7 +197,7 @@
       109.81,
       118.99,
       115.64,
-      115.02
+      115.23
     ],
     "rut": [
       100.0,
@@ -205,7 +205,7 @@
       106.37,
       110.9,
       114.89,
-      114.72
+      114.33
     ]
   }
 }
