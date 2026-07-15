@@ -1,70 +1,70 @@
 {
-  "asOf": "Jul 15, 2026 16:25 UTC",
+  "asOf": "Jul 15, 2026 21:59 UTC",
   "indices": {
     "spx": {
-      "val": "7,531",
-      "chg": "-0.17%",
-      "ytd": "+9.8%"
+      "val": "7,572",
+      "chg": "+0.38%",
+      "ytd": "+10.4%"
     },
     "ndx": {
-      "val": "26,078",
-      "chg": "-0.11%",
-      "ytd": "+12.2%"
+      "val": "26,269",
+      "chg": "+0.62%",
+      "ytd": "+13.1%"
     },
     "rut": {
-      "val": "2,971",
-      "chg": "+0.21%",
-      "ytd": "+18.4%"
+      "val": "2,976",
+      "chg": "+0.39%",
+      "ytd": "+18.7%"
     },
     "vix": {
-      "val": "16.28",
+      "val": "15.67",
       "note": "calm \u00b7 normal"
     }
   },
   "sectors": [
     {
-      "name": "Energy",
-      "ytd": 24.3
+      "name": "Tech",
+      "ytd": 26.1
     },
     {
-      "name": "Tech",
-      "ytd": 24.1
+      "name": "Energy",
+      "ytd": 25.5
     },
     {
       "name": "Industrials",
-      "ytd": 13.1
+      "ytd": 14.6
     },
     {
       "name": "Real Estate",
-      "ytd": 11.8
+      "ytd": 12.1
     },
     {
       "name": "Materials",
-      "ytd": 9.6
+      "ytd": 10.4
     },
     {
       "name": "Cons Staples",
-      "ytd": 9.5
+      "ytd": 8.8
     },
     {
       "name": "Utilities",
-      "ytd": 7.0
+      "ytd": 6.1
     },
     {
       "name": "Financials",
-      "ytd": 3.8
+      "ytd": 3.9
     },
     {
       "name": "Health",
-      "ytd": 3.1
+      "ytd": 2.7
     },
     {
       "name": "Cons Disc",
-      "ytd": -0.6
+      "ytd": -0.7
     },
     {
       "name": "Comm Svcs",
-      "ytd": -2.1
+      "ytd": -2.4
     }
   ],
   "macro": [
@@ -81,7 +81,7 @@
     {
       "label": "2Y Treasury",
       "val": "4.19%",
-      "note": "spread: +85bps"
+      "note": "spread: +86bps"
     },
     {
       "label": "CPI (Jan YoY)",
@@ -96,7 +96,7 @@
     },
     {
       "label": "WTI Crude",
-      "val": "$79.0",
+      "val": "$80.2",
       "note": "real-time futures",
       "cls": "neg"
     }
@@ -105,74 +105,74 @@
     {
       "sym": "AAPL",
       "name": "Apple Inc.",
-      "price": 328.2,
-      "chg": 4.24,
-      "m1": 12.7,
-      "m3": 23.3,
-      "dd": -0.0
+      "price": 327.5,
+      "chg": 4.01,
+      "m1": 12.5,
+      "m3": 23.0,
+      "dd": 0.0
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 206.68,
-      "chg": -2.42,
-      "m1": 0.7,
-      "m3": 4.0,
-      "dd": -12.2
+      "price": 212.5,
+      "chg": 0.33,
+      "m1": 3.6,
+      "m3": 7.0,
+      "dd": -9.8
     },
     {
       "sym": "MSFT",
       "name": "Microsoft Corporatio",
-      "price": 397.36,
-      "chg": 3.23,
-      "m1": 1.7,
-      "m3": -3.2,
-      "dd": -26.2
+      "price": 395.63,
+      "chg": 2.78,
+      "m1": 1.2,
+      "m3": -3.6,
+      "dd": -26.6
     },
     {
       "sym": "JPM",
       "name": "JP Morgan Chase & Co",
-      "price": 347.17,
-      "chg": 1.25,
-      "m1": 8.7,
-      "m3": 14.0,
+      "price": 346.91,
+      "chg": 1.17,
+      "m1": 8.6,
+      "m3": 13.9,
       "dd": -0.0
     },
     {
       "sym": "XOM",
       "name": "ExxonMobil Holdings ",
-      "price": 143.11,
-      "chg": -1.36,
-      "m1": -2.6,
-      "m3": -3.3,
-      "dd": -16.0
+      "price": 144.51,
+      "chg": -0.4,
+      "m1": -1.7,
+      "m3": -2.4,
+      "dd": -15.2
     }
   ],
   "signals": [
     {
       "color": "#1d9e75",
       "text": "Volatility calm",
-      "sub": "VIX 16.3 \u2014 normal range"
+      "sub": "VIX 15.7 \u2014 normal range"
     },
     {
       "color": "#1d9e75",
-      "text": "Energy leading YTD",
-      "sub": "+24.3% YTD \u2014 momentum sector"
+      "text": "Tech leading YTD",
+      "sub": "+26.1% YTD \u2014 momentum sector"
     },
     {
       "color": "#e24b4a",
       "text": "Comm Svcs lagging YTD",
-      "sub": "-2.1% YTD \u2014 weakest sector"
+      "sub": "-2.4% YTD \u2014 weakest sector"
     },
     {
       "color": "#1d9e75",
       "text": "Yield curve steepening",
-      "sub": "10Y\u20132Y spread 85bps \u2014 normalizing"
+      "sub": "10Y\u20132Y spread 86bps \u2014 normalizing"
     }
   ],
   "yieldCurve": {
-    "bps": 85,
-    "pct": 92
+    "bps": 86,
+    "pct": 93
   },
   "perfChart": {
     "labels": [
@@ -189,7 +189,7 @@
       104.8,
       110.19,
       109.02,
-      109.52
+      110.08
     ],
     "ndx": [
       100.0,
@@ -197,7 +197,7 @@
       109.81,
       118.99,
       115.64,
-      115.11
+      115.89
     ],
     "rut": [
       100.0,
@@ -205,7 +205,7 @@
       106.37,
       110.9,
       114.89,
-      112.85
+      113.06
     ]
   }
 }
