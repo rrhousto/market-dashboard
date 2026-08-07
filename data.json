@@ -1,70 +1,70 @@
 {
-  "asOf": "Aug 7, 2026 01:00 UTC",
+  "asOf": "Aug 7, 2026 15:58 UTC",
   "indices": {
     "spx": {
-      "val": "7,710",
-      "chg": "-0.18%",
-      "ytd": "+12.4%"
+      "val": "7,754",
+      "chg": "+0.57%",
+      "ytd": "+13.1%"
     },
     "ndx": {
-      "val": "26,348",
-      "chg": "-0.06%",
-      "ytd": "+13.4%"
+      "val": "26,671",
+      "chg": "+1.23%",
+      "ytd": "+14.8%"
     },
     "rut": {
-      "val": "3,002",
-      "chg": "-0.58%",
-      "ytd": "+19.7%"
+      "val": "3,029",
+      "chg": "+0.93%",
+      "ytd": "+20.8%"
     },
     "vix": {
-      "val": "15.15",
+      "val": "14.93",
       "note": "calm \u00b7 normal"
     }
   },
   "sectors": [
     {
-      "name": "Energy",
-      "ytd": 29.2
+      "name": "Tech",
+      "ytd": 30.3
     },
     {
-      "name": "Tech",
-      "ytd": 28.8
+      "name": "Energy",
+      "ytd": 28.7
     },
     {
       "name": "Industrials",
-      "ytd": 17.6
+      "ytd": 17.8
     },
     {
       "name": "Materials",
-      "ytd": 14.0
+      "ytd": 15.2
     },
     {
       "name": "Real Estate",
-      "ytd": 12.7
+      "ytd": 13.4
     },
     {
       "name": "Cons Staples",
-      "ytd": 10.9
+      "ytd": 10.7
     },
     {
       "name": "Health",
-      "ytd": 6.6
+      "ytd": 6.7
     },
     {
       "name": "Financials",
-      "ytd": 6.2
+      "ytd": 5.7
     },
     {
       "name": "Utilities",
-      "ytd": 1.8
+      "ytd": 2.6
     },
     {
       "name": "Cons Disc",
-      "ytd": 0.2
+      "ytd": 2.0
     },
     {
       "name": "Comm Svcs",
-      "ytd": -4.3
+      "ytd": -4.1
     }
   ],
   "macro": [
@@ -75,12 +75,12 @@
     },
     {
       "label": "10Y Treasury",
-      "val": "4.67%",
+      "val": "4.65%",
       "note": "real-time via yfinance"
     },
     {
       "label": "2Y Treasury",
-      "val": "4.31%",
+      "val": "4.29%",
       "note": "spread: +94bps"
     },
     {
@@ -96,7 +96,7 @@
     },
     {
       "label": "WTI Crude",
-      "val": "$78.2",
+      "val": "$78.0",
       "note": "real-time futures",
       "cls": "neg"
     }
@@ -105,64 +105,64 @@
     {
       "sym": "AAPL",
       "name": "Apple Inc.",
-      "price": 312.41,
-      "chg": 0.45,
-      "m1": -0.3,
-      "m3": 8.8,
-      "dd": -8.1
+      "price": 312.1,
+      "chg": -0.1,
+      "m1": -1.3,
+      "m3": 6.5,
+      "dd": -8.2
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 218.99,
-      "chg": -0.1,
-      "m1": 7.3,
-      "m3": 3.7,
-      "dd": -7.0
+      "price": 223.63,
+      "chg": 2.12,
+      "m1": 10.3,
+      "m3": 4.0,
+      "dd": -5.0
     },
     {
       "sym": "MSFT",
       "name": "Microsoft Corporatio",
-      "price": 499.86,
-      "chg": 2.54,
-      "m1": 30.4,
-      "m3": 19.0,
-      "dd": -7.2
+      "price": 503.56,
+      "chg": 0.74,
+      "m1": 31.0,
+      "m3": 21.6,
+      "dd": -6.5
     },
     {
       "sym": "JPM",
       "name": "JP Morgan Chase & Co",
-      "price": 356.3,
-      "chg": -0.82,
-      "m1": 7.8,
-      "m3": 16.9,
-      "dd": -0.8
+      "price": 356.62,
+      "chg": 0.09,
+      "m1": 6.3,
+      "m3": 18.6,
+      "dd": -0.7
     },
     {
       "sym": "XOM",
       "name": "ExxonMobil Holdings ",
-      "price": 154.84,
-      "chg": 2.12,
-      "m1": 9.7,
-      "m3": 6.4,
-      "dd": -9.1
+      "price": 153.12,
+      "chg": -1.11,
+      "m1": 11.4,
+      "m3": 6.6,
+      "dd": -10.1
     }
   ],
   "signals": [
     {
       "color": "#1d9e75",
       "text": "Volatility calm",
-      "sub": "VIX 15.2 \u2014 normal range"
+      "sub": "VIX 14.9 \u2014 normal range"
     },
     {
       "color": "#1d9e75",
-      "text": "Energy leading YTD",
-      "sub": "+29.2% YTD \u2014 momentum sector"
+      "text": "Tech leading YTD",
+      "sub": "+30.3% YTD \u2014 momentum sector"
     },
     {
       "color": "#e24b4a",
       "text": "Comm Svcs lagging YTD",
-      "sub": "-4.3% YTD \u2014 weakest sector"
+      "sub": "-4.1% YTD \u2014 weakest sector"
     },
     {
       "color": "#1d9e75",
@@ -189,7 +189,7 @@
       116.11,
       114.87,
       114.72,
-      118.1
+      118.77
     ],
     "ndx": [
       100.0,
@@ -197,7 +197,7 @@
       124.93,
       121.41,
       117.52,
-      122.04
+      123.53
     ],
     "rut": [
       100.0,
@@ -205,7 +205,7 @@
       116.94,
       121.15,
       117.42,
-      120.24
+      121.35
     ]
   }
 }
