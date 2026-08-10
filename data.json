@@ -1,54 +1,54 @@
 {
-  "asOf": "Aug 10, 2026 16:01 UTC",
+  "asOf": "Aug 10, 2026 21:39 UTC",
   "indices": {
     "spx": {
-      "val": "7,767",
-      "chg": "+0.12%",
-      "ytd": "+13.2%"
+      "val": "7,753",
+      "chg": "-0.06%",
+      "ytd": "+13.0%"
     },
     "ndx": {
-      "val": "26,677",
-      "chg": "-0.05%",
-      "ytd": "+14.8%"
+      "val": "26,605",
+      "chg": "-0.32%",
+      "ytd": "+14.5%"
     },
     "rut": {
-      "val": "3,020",
-      "chg": "-0.49%",
-      "ytd": "+20.4%"
+      "val": "3,017",
+      "chg": "-0.56%",
+      "ytd": "+20.3%"
     },
     "vix": {
-      "val": "15.19",
+      "val": "15.46",
       "note": "calm \u00b7 normal"
     }
   },
   "sectors": [
     {
       "name": "Energy",
-      "ytd": 32.0
+      "ytd": 33.6
     },
     {
       "name": "Tech",
-      "ytd": 30.6
+      "ytd": 29.4
     },
     {
       "name": "Industrials",
-      "ytd": 17.9
+      "ytd": 17.5
     },
     {
       "name": "Materials",
-      "ytd": 15.9
+      "ytd": 16.2
     },
     {
       "name": "Real Estate",
-      "ytd": 11.5
+      "ytd": 11.7
     },
     {
       "name": "Cons Staples",
-      "ytd": 10.5
+      "ytd": 10.7
     },
     {
       "name": "Health",
-      "ytd": 8.5
+      "ytd": 9.2
     },
     {
       "name": "Financials",
@@ -56,15 +56,15 @@
     },
     {
       "name": "Cons Disc",
-      "ytd": 1.6
+      "ytd": 1.5
     },
     {
       "name": "Utilities",
-      "ytd": 1.3
+      "ytd": 1.2
     },
     {
       "name": "Comm Svcs",
-      "ytd": -4.3
+      "ytd": -3.8
     }
   ],
   "macro": [
@@ -96,7 +96,7 @@
     },
     {
       "label": "WTI Crude",
-      "val": "$81.2",
+      "val": "$82.3",
       "note": "real-time futures",
       "cls": "neg"
     }
@@ -105,64 +105,64 @@
     {
       "sym": "AAPL",
       "name": "Apple Inc.",
-      "price": 307.04,
-      "chg": -2.01,
-      "m1": -2.6,
-      "m3": 4.9,
-      "dd": -9.7
+      "price": 308.26,
+      "chg": -1.62,
+      "m1": -2.2,
+      "m3": 5.3,
+      "dd": -9.4
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 219.78,
-      "chg": -1.87,
-      "m1": 4.2,
-      "m3": 0.3,
-      "dd": -6.7
+      "price": 217.55,
+      "chg": -2.86,
+      "m1": 3.1,
+      "m3": -0.8,
+      "dd": -7.6
     },
     {
       "sym": "MSFT",
       "name": "Microsoft Corporatio",
-      "price": 510.47,
-      "chg": 2.1,
-      "m1": 32.6,
-      "m3": 24.0,
-      "dd": -5.2
+      "price": 506.06,
+      "chg": 1.21,
+      "m1": 31.4,
+      "m3": 22.9,
+      "dd": -6.1
     },
     {
       "sym": "JPM",
       "name": "JP Morgan Chase & Co",
-      "price": 358.3,
-      "chg": 0.22,
-      "m1": 6.5,
-      "m3": 20.0,
-      "dd": -0.3
+      "price": 359.79,
+      "chg": 0.63,
+      "m1": 6.9,
+      "m3": 20.5,
+      "dd": -0.0
     },
     {
       "sym": "XOM",
       "name": "ExxonMobil Holdings ",
-      "price": 158.22,
-      "chg": 3.38,
-      "m1": 13.9,
-      "m3": 6.4,
-      "dd": -7.1
+      "price": 159.79,
+      "chg": 4.41,
+      "m1": 15.1,
+      "m3": 7.5,
+      "dd": -6.2
     }
   ],
   "signals": [
     {
       "color": "#1d9e75",
       "text": "Volatility calm",
-      "sub": "VIX 15.2 \u2014 normal range"
+      "sub": "VIX 15.5 \u2014 normal range"
     },
     {
       "color": "#1d9e75",
       "text": "Energy leading YTD",
-      "sub": "+32.0% YTD \u2014 momentum sector"
+      "sub": "+33.6% YTD \u2014 momentum sector"
     },
     {
       "color": "#e24b4a",
       "text": "Comm Svcs lagging YTD",
-      "sub": "-4.3% YTD \u2014 weakest sector"
+      "sub": "-3.8% YTD \u2014 weakest sector"
     },
     {
       "color": "#1d9e75",
@@ -189,7 +189,7 @@
       116.11,
       114.87,
       114.72,
-      118.97
+      118.76
     ],
     "ndx": [
       100.0,
@@ -197,7 +197,7 @@
       124.93,
       121.41,
       117.52,
-      123.55
+      123.23
     ],
     "rut": [
       100.0,
@@ -205,7 +205,7 @@
       116.94,
       121.15,
       117.42,
-      120.96
+      120.87
     ]
   }
 }
