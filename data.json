@@ -1,70 +1,70 @@
 {
-  "asOf": "Aug 13, 2026 16:00 UTC",
+  "asOf": "Aug 13, 2026 21:42 UTC",
   "indices": {
     "spx": {
-      "val": "7,778",
-      "chg": "+0.38%",
-      "ytd": "+13.4%"
+      "val": "7,799",
+      "chg": "+0.65%",
+      "ytd": "+13.7%"
     },
     "ndx": {
-      "val": "26,717",
-      "chg": "+0.48%",
-      "ytd": "+15.0%"
+      "val": "26,803",
+      "chg": "+0.81%",
+      "ytd": "+15.3%"
     },
     "rut": {
-      "val": "3,051",
-      "chg": "+0.17%",
-      "ytd": "+21.6%"
+      "val": "3,053",
+      "chg": "+0.24%",
+      "ytd": "+21.7%"
     },
     "vix": {
-      "val": "14.71",
+      "val": "14.63",
       "note": "calm \u00b7 normal"
     }
   },
   "sectors": [
     {
       "name": "Energy",
-      "ytd": 35.4
+      "ytd": 35.6
     },
     {
       "name": "Tech",
-      "ytd": 32.4
+      "ytd": 32.5
     },
     {
       "name": "Industrials",
-      "ytd": 17.8
+      "ytd": 18.2
     },
     {
       "name": "Materials",
-      "ytd": 14.6
+      "ytd": 14.4
     },
     {
       "name": "Real Estate",
-      "ytd": 13.1
+      "ytd": 13.5
     },
     {
       "name": "Cons Staples",
-      "ytd": 11.8
+      "ytd": 12.1
     },
     {
       "name": "Health",
-      "ytd": 9.4
+      "ytd": 9.2
     },
     {
       "name": "Financials",
-      "ytd": 6.2
+      "ytd": 7.0
     },
     {
       "name": "Utilities",
-      "ytd": 3.2
+      "ytd": 3.4
     },
     {
       "name": "Cons Disc",
-      "ytd": 0.2
+      "ytd": 0.5
     },
     {
       "name": "Comm Svcs",
-      "ytd": -4.2
+      "ytd": -3.2
     }
   ],
   "macro": [
@@ -96,7 +96,7 @@
     },
     {
       "label": "WTI Crude",
-      "val": "$82.4",
+      "val": "$81.2",
       "note": "real-time futures",
       "cls": "neg"
     }
@@ -105,64 +105,64 @@
     {
       "sym": "AAPL",
       "name": "Apple Inc.",
-      "price": 302.76,
-      "chg": 0.17,
-      "m1": -7.5,
-      "m3": 1.6,
-      "dd": -10.9
+      "price": 305.26,
+      "chg": 1.0,
+      "m1": -6.7,
+      "m3": 2.4,
+      "dd": -10.2
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 224.23,
-      "chg": 0.06,
-      "m1": 5.5,
-      "m3": -4.8,
-      "dd": -4.8
+      "price": 225.3,
+      "chg": 0.54,
+      "m1": 6.0,
+      "m3": -4.3,
+      "dd": -4.3
     },
     {
       "sym": "MSFT",
       "name": "Microsoft Corporatio",
-      "price": 494.85,
-      "chg": 0.49,
-      "m1": 25.1,
-      "m3": 21.1,
-      "dd": -8.1
+      "price": 496.88,
+      "chg": 0.9,
+      "m1": 25.6,
+      "m3": 21.6,
+      "dd": -7.8
     },
     {
       "sym": "JPM",
       "name": "JP Morgan Chase & Co",
-      "price": 362.8,
-      "chg": -0.65,
-      "m1": 4.6,
-      "m3": 21.5,
-      "dd": -0.7
+      "price": 363.11,
+      "chg": -0.57,
+      "m1": 4.7,
+      "m3": 21.6,
+      "dd": -0.6
     },
     {
       "sym": "XOM",
       "name": "ExxonMobil Holdings ",
-      "price": 159.74,
-      "chg": -0.01,
-      "m1": 10.5,
-      "m3": 5.3,
-      "dd": -6.2
+      "price": 158.61,
+      "chg": -0.71,
+      "m1": 9.8,
+      "m3": 4.5,
+      "dd": -6.9
     }
   ],
   "signals": [
     {
       "color": "#1d9e75",
       "text": "Volatility calm",
-      "sub": "VIX 14.7 \u2014 normal range"
+      "sub": "VIX 14.6 \u2014 normal range"
     },
     {
       "color": "#1d9e75",
       "text": "Energy leading YTD",
-      "sub": "+35.4% YTD \u2014 momentum sector"
+      "sub": "+35.6% YTD \u2014 momentum sector"
     },
     {
       "color": "#e24b4a",
       "text": "Comm Svcs lagging YTD",
-      "sub": "-4.2% YTD \u2014 weakest sector"
+      "sub": "-3.2% YTD \u2014 weakest sector"
     },
     {
       "color": "#1d9e75",
@@ -189,7 +189,7 @@
       116.11,
       114.87,
       114.72,
-      119.14
+      119.46
     ],
     "ndx": [
       100.0,
@@ -197,7 +197,7 @@
       124.93,
       121.41,
       117.52,
-      123.74
+      124.14
     ],
     "rut": [
       100.0,
@@ -205,7 +205,7 @@
       116.94,
       121.15,
       117.42,
-      122.21
+      122.29
     ]
   }
 }
