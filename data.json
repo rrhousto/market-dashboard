@@ -1,19 +1,19 @@
 {
-  "asOf": "Aug 31, 2026 20:42 UTC",
+  "asOf": "Sep 1, 2026 00:23 UTC",
   "indices": {
     "spx": {
       "val": "7,686",
-      "chg": "-0.58%",
+      "chg": "-0.33%",
       "ytd": "+12.1%"
     },
     "ndx": {
       "val": "26,371",
-      "chg": "-0.64%",
+      "chg": "-0.12%",
       "ytd": "+13.5%"
     },
     "rut": {
       "val": "2,956",
-      "chg": "-1.92%",
+      "chg": "-0.54%",
       "ytd": "+17.9%"
     },
     "vix": {
@@ -96,7 +96,7 @@
     },
     {
       "label": "WTI Crude",
-      "val": "$86.3",
+      "val": "$86.6",
       "note": "real-time futures",
       "cls": "neg"
     }
@@ -106,45 +106,45 @@
       "sym": "AAPL",
       "name": "Apple Inc.",
       "price": 316.85,
-      "chg": 0.72,
-      "m1": -4.9,
-      "m3": 3.5,
+      "chg": -0.89,
+      "m1": 2.7,
+      "m3": 0.6,
       "dd": -6.8
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA Corporation",
       "price": 220.78,
-      "chg": -3.16,
-      "m1": 13.2,
-      "m3": -1.5,
+      "chg": 1.48,
+      "m1": 10.0,
+      "m3": -0.8,
       "dd": -6.2
     },
     {
       "sym": "MSFT",
       "name": "Microsoft Corporatio",
       "price": 507.29,
-      "chg": 0.44,
-      "m1": 12.7,
-      "m3": 10.4,
+      "chg": -1.22,
+      "m1": 9.4,
+      "m3": 15.2,
       "dd": -5.6
     },
     {
       "sym": "JPM",
       "name": "JP Morgan Chase & Co",
       "price": 356.02,
-      "chg": 0.51,
-      "m1": 1.5,
-      "m3": 20.6,
+      "chg": -0.45,
+      "m1": 1.2,
+      "m3": 18.8,
       "dd": -2.5
     },
     {
       "sym": "XOM",
       "name": "ExxonMobil Holdings ",
       "price": 160.95,
-      "chg": 2.88,
-      "m1": 3.2,
-      "m3": 8.4,
+      "chg": 2.71,
+      "m1": 4.2,
+      "m3": 8.3,
       "dd": -4.9
     }
   ],
