@@ -1,20 +1,20 @@
 {
-  "asOf": "Sep 21, 2026 19:53 UTC",
+  "asOf": "Sep 21, 2026 23:49 UTC",
   "indices": {
     "spx": {
-      "val": "7,768",
-      "chg": "+1.54%",
-      "ytd": "+13.3%"
+      "val": "7,765",
+      "chg": "+1.49%",
+      "ytd": "+13.2%"
     },
     "ndx": {
-      "val": "27,138",
-      "chg": "+2.32%",
-      "ytd": "+16.8%"
+      "val": "27,122",
+      "chg": "+2.26%",
+      "ytd": "+16.7%"
     },
     "rut": {
-      "val": "2,882",
-      "chg": "+0.75%",
-      "ytd": "+14.9%"
+      "val": "2,875",
+      "chg": "+0.52%",
+      "ytd": "+14.6%"
     },
     "vix": {
       "val": "14.87",
@@ -24,7 +24,7 @@
   "sectors": [
     {
       "name": "Energy",
-      "ytd": 38.8
+      "ytd": 38.7
     },
     {
       "name": "Tech",
@@ -40,7 +40,7 @@
     },
     {
       "name": "Industrials",
-      "ytd": 8.1
+      "ytd": 8.2
     },
     {
       "name": "Real Estate",
@@ -56,11 +56,11 @@
     },
     {
       "name": "Comm Svcs",
-      "ytd": -0.9
+      "ytd": -1.3
     },
     {
       "name": "Utilities",
-      "ytd": -4.7
+      "ytd": -4.6
     },
     {
       "name": "Cons Disc",
@@ -96,7 +96,7 @@
     },
     {
       "label": "WTI Crude",
-      "val": "$92.0",
+      "val": "$92.2",
       "note": "real-time futures",
       "cls": "neg"
     }
@@ -105,47 +105,47 @@
     {
       "sym": "AAPL",
       "name": "Apple Inc.",
-      "price": 339.35,
-      "chg": 0.96,
-      "m1": 9.0,
-      "m3": 15.4,
-      "dd": -0.1
+      "price": 338.98,
+      "chg": 0.85,
+      "m1": 8.9,
+      "m3": 15.3,
+      "dd": -0.2
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 227.18,
-      "chg": 2.21,
-      "m1": 4.9,
-      "m3": 13.7,
-      "dd": -3.4
+      "price": 227.38,
+      "chg": 2.3,
+      "m1": 5.0,
+      "m3": 13.8,
+      "dd": -3.3
     },
     {
       "sym": "MSFT",
       "name": "Microsoft Corporatio",
-      "price": 500.62,
-      "chg": 1.39,
-      "m1": 4.0,
-      "m3": 34.1,
-      "dd": -6.9
+      "price": 501.61,
+      "chg": 1.59,
+      "m1": 4.2,
+      "m3": 34.4,
+      "dd": -6.7
     },
     {
       "sym": "JPM",
       "name": "JP Morgan Chase & Co",
-      "price": 351.76,
-      "chg": 0.6,
+      "price": 352.04,
+      "chg": 0.68,
       "m1": 0.1,
       "m3": 5.8,
-      "dd": -3.7
+      "dd": -3.6
     },
     {
       "sym": "XOM",
       "name": "ExxonMobil Holdings ",
-      "price": 158.69,
-      "chg": -2.97,
-      "m1": -4.5,
-      "m3": 14.3,
-      "dd": -6.3
+      "price": 158.3,
+      "chg": -3.2,
+      "m1": -4.7,
+      "m3": 14.0,
+      "dd": -6.5
     }
   ],
   "signals": [
@@ -157,7 +157,7 @@
     {
       "color": "#1d9e75",
       "text": "Energy leading YTD",
-      "sub": "+38.8% YTD \u2014 momentum sector"
+      "sub": "+38.7% YTD \u2014 momentum sector"
     },
     {
       "color": "#e24b4a",
@@ -189,7 +189,7 @@
       104.03,
       103.89,
       106.62,
-      107.76
+      107.71
     ],
     "ndx": [
       100.0,
@@ -197,7 +197,7 @@
       105.31,
       101.93,
       105.94,
-      109.02
+      108.96
     ],
     "rut": [
       100.0,
@@ -205,7 +205,7 @@
       108.02,
       104.69,
       105.59,
-      102.92
+      102.69
     ]
   }
 }
