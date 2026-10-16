@@ -1,34 +1,34 @@
 {
-  "asOf": "Oct 16, 2026 18:40 UTC",
+  "asOf": "Oct 16, 2026 23:15 UTC",
   "indices": {
     "spx": {
-      "val": "7,651",
-      "chg": "-1.2%",
-      "ytd": "+11.6%"
+      "val": "7,659",
+      "chg": "-1.09%",
+      "ytd": "+11.7%"
     },
     "ndx": {
-      "val": "26,127",
-      "chg": "-2.19%",
-      "ytd": "+12.4%"
+      "val": "26,140",
+      "chg": "-2.15%",
+      "ytd": "+12.5%"
     },
     "rut": {
-      "val": "2,720",
-      "chg": "-1.72%",
-      "ytd": "+8.4%"
+      "val": "2,721",
+      "chg": "-1.66%",
+      "ytd": "+8.5%"
     },
     "vix": {
-      "val": "21.26",
-      "note": "elevated \u00b7 caution"
+      "val": "19.99",
+      "note": "calm \u00b7 normal"
     }
   },
   "sectors": [
     {
       "name": "Energy",
-      "ytd": 52.0
+      "ytd": 52.4
     },
     {
       "name": "Tech",
-      "ytd": 28.0
+      "ytd": 27.6
     },
     {
       "name": "Health",
@@ -36,35 +36,35 @@
     },
     {
       "name": "Cons Staples",
-      "ytd": 14.5
+      "ytd": 15.0
     },
     {
       "name": "Materials",
-      "ytd": 11.3
+      "ytd": 11.8
     },
     {
       "name": "Industrials",
-      "ytd": 6.9
+      "ytd": 7.0
     },
     {
       "name": "Real Estate",
-      "ytd": 6.6
+      "ytd": 6.9
     },
     {
       "name": "Financials",
-      "ytd": 1.9
+      "ytd": 2.3
     },
     {
       "name": "Utilities",
-      "ytd": -0.4
+      "ytd": -0.2
     },
     {
       "name": "Cons Disc",
-      "ytd": -4.7
+      "ytd": -4.4
     },
     {
       "name": "Comm Svcs",
-      "ytd": -4.9
+      "ytd": -4.8
     }
   ],
   "macro": [
@@ -96,7 +96,7 @@
     },
     {
       "label": "WTI Crude",
-      "val": "$99.2",
+      "val": "$99.0",
       "note": "real-time futures",
       "cls": "neg"
     }
@@ -105,64 +105,64 @@
     {
       "sym": "AAPL",
       "name": "Apple Inc.",
-      "price": 341.02,
-      "chg": -0.29,
-      "m1": 1.2,
-      "m3": 4.1,
-      "dd": -0.6
+      "price": 343.46,
+      "chg": 0.43,
+      "m1": 1.9,
+      "m3": 4.9,
+      "dd": 0.0
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 214.87,
-      "chg": -1.09,
-      "m1": -2.0,
-      "m3": 3.8,
-      "dd": -10.2
+      "price": 214.13,
+      "chg": -1.43,
+      "m1": -2.4,
+      "m3": 3.4,
+      "dd": -10.5
     },
     {
       "sym": "MSFT",
       "name": "Microsoft Corporatio",
-      "price": 526.5,
-      "chg": -2.4,
-      "m1": 5.8,
-      "m3": 32.6,
-      "dd": -3.1
+      "price": 529.05,
+      "chg": -1.93,
+      "m1": 6.3,
+      "m3": 33.3,
+      "dd": -2.6
     },
     {
       "sym": "JPM",
       "name": "JP Morgan Chase & Co",
-      "price": 338.72,
-      "chg": 0.95,
-      "m1": -2.6,
-      "m3": -1.4,
-      "dd": -6.8
+      "price": 339.72,
+      "chg": 1.25,
+      "m1": -2.3,
+      "m3": -1.1,
+      "dd": -6.5
     },
     {
       "sym": "XOM",
       "name": "ExxonMobil Holdings ",
-      "price": 178.15,
-      "chg": 1.99,
-      "m1": 9.1,
-      "m3": 18.2,
+      "price": 178.98,
+      "chg": 2.46,
+      "m1": 9.6,
+      "m3": 18.7,
       "dd": 0.0
     }
   ],
   "signals": [
     {
-      "color": "#ba7517",
-      "text": "Volatility spike active",
-      "sub": "VIX 21.3 \u2014 above normal; monitor risk"
+      "color": "#1d9e75",
+      "text": "Volatility calm",
+      "sub": "VIX 20.0 \u2014 normal range"
     },
     {
       "color": "#1d9e75",
       "text": "Energy leading YTD",
-      "sub": "+52.0% YTD \u2014 momentum sector"
+      "sub": "+52.4% YTD \u2014 momentum sector"
     },
     {
       "color": "#e24b4a",
       "text": "Comm Svcs lagging YTD",
-      "sub": "-4.9% YTD \u2014 weakest sector"
+      "sub": "-4.8% YTD \u2014 weakest sector"
     },
     {
       "color": "#1d9e75",
@@ -189,7 +189,7 @@
       98.81,
       101.4,
       100.94,
-      100.93
+      101.05
     ],
     "ndx": [
       100.0,
@@ -197,7 +197,7 @@
       94.07,
       97.77,
       99.59,
-      96.86
+      96.91
     ],
     "rut": [
       100.0,
@@ -205,7 +205,7 @@
       100.41,
       101.27,
       95.8,
-      93.16
+      93.22
     ]
   }
 }
