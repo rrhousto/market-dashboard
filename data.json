@@ -1,70 +1,70 @@
 {
-  "asOf": "Nov 6, 2026 20:43 UTC",
+  "asOf": "Nov 7, 2026 00:37 UTC",
   "indices": {
     "spx": {
-      "val": "7,393",
-      "chg": "+0.54%",
-      "ytd": "+7.8%"
+      "val": "7,377",
+      "chg": "+0.31%",
+      "ytd": "+7.6%"
     },
     "ndx": {
-      "val": "24,638",
-      "chg": "+1.33%",
-      "ytd": "+6.0%"
+      "val": "24,579",
+      "chg": "+1.09%",
+      "ytd": "+5.8%"
     },
     "rut": {
-      "val": "2,759",
-      "chg": "+1.05%",
-      "ytd": "+10.0%"
+      "val": "2,754",
+      "chg": "+0.89%",
+      "ytd": "+9.8%"
     },
     "vix": {
-      "val": "24.07",
+      "val": "25.64",
       "note": "elevated \u00b7 caution"
     }
   },
   "sectors": [
     {
       "name": "Energy",
-      "ytd": 38.1
+      "ytd": 37.7
     },
     {
       "name": "Health",
-      "ytd": 20.4
+      "ytd": 20.3
     },
     {
       "name": "Cons Staples",
-      "ytd": 18.4
+      "ytd": 18.2
     },
     {
       "name": "Tech",
-      "ytd": 14.8
+      "ytd": 14.6
     },
     {
       "name": "Materials",
-      "ytd": 14.4
+      "ytd": 14.1
     },
     {
       "name": "Real Estate",
-      "ytd": 11.8
+      "ytd": 11.6
     },
     {
       "name": "Financials",
-      "ytd": 5.6
+      "ytd": 5.3
     },
     {
       "name": "Industrials",
-      "ytd": 4.1
+      "ytd": 3.8
     },
     {
       "name": "Utilities",
-      "ytd": 2.4
+      "ytd": 2.0
     },
     {
       "name": "Cons Disc",
-      "ytd": 0.2
+      "ytd": -0.0
     },
     {
       "name": "Comm Svcs",
-      "ytd": -9.2
+      "ytd": -9.5
     }
   ],
   "macro": [
@@ -96,7 +96,7 @@
     },
     {
       "label": "WTI Crude",
-      "val": "$90.7",
+      "val": "$90.3",
       "note": "real-time futures",
       "cls": "neg"
     }
@@ -105,64 +105,64 @@
     {
       "sym": "AAPL",
       "name": "Apple Inc.",
-      "price": 343.44,
-      "chg": -0.21,
-      "m1": 0.9,
-      "m3": 12.6,
-      "dd": -1.7
+      "price": 342.37,
+      "chg": -0.52,
+      "m1": 0.6,
+      "m3": 12.3,
+      "dd": -2.0
     },
     {
       "sym": "NVDA",
       "name": "NVIDIA Corporation",
-      "price": 187.3,
-      "chg": 3.14,
-      "m1": -18.7,
-      "m3": -13.8,
-      "dd": -21.7
+      "price": 186.64,
+      "chg": 2.78,
+      "m1": -19.0,
+      "m3": -14.1,
+      "dd": -22.0
     },
     {
       "sym": "MSFT",
       "name": "Microsoft Corporatio",
-      "price": 531.71,
-      "chg": -0.79,
-      "m1": 1.7,
-      "m3": 5.7,
-      "dd": -4.3
+      "price": 530.61,
+      "chg": -0.99,
+      "m1": 1.5,
+      "m3": 5.5,
+      "dd": -4.5
     },
     {
       "sym": "JPM",
       "name": "JP Morgan Chase & Co",
-      "price": 335.4,
-      "chg": -0.58,
-      "m1": 1.2,
-      "m3": -6.9,
-      "dd": -7.7
+      "price": 334.49,
+      "chg": -0.84,
+      "m1": 0.9,
+      "m3": -7.2,
+      "dd": -7.9
     },
     {
       "sym": "XOM",
       "name": "ExxonMobil Holdings ",
-      "price": 165.99,
-      "chg": 0.42,
-      "m1": -1.5,
-      "m3": 4.6,
+      "price": 165.87,
+      "chg": 0.34,
+      "m1": -1.6,
+      "m3": 4.5,
       "dd": -11.4
     }
   ],
   "signals": [
     {
-      "color": "#ba7517",
-      "text": "Volatility spike active",
-      "sub": "VIX 24.1 \u2014 above normal; monitor risk"
+      "color": "#e24b4a",
+      "text": "High volatility alert",
+      "sub": "VIX 25.6 \u2014 fear elevated, consider hedges"
     },
     {
       "color": "#1d9e75",
       "text": "Energy leading YTD",
-      "sub": "+38.1% YTD \u2014 momentum sector"
+      "sub": "+37.7% YTD \u2014 momentum sector"
     },
     {
       "color": "#e24b4a",
       "text": "Comm Svcs lagging YTD",
-      "sub": "-9.2% YTD \u2014 weakest sector"
+      "sub": "-9.5% YTD \u2014 weakest sector"
     },
     {
       "color": "#1d9e75",
@@ -189,7 +189,7 @@
       102.49,
       102.03,
       101.08,
-      98.58
+      98.37
     ],
     "ndx": [
       100.0,
@@ -197,7 +197,7 @@
       100.6,
       102.47,
       97.04,
-      93.96
+      93.77
     ],
     "rut": [
       100.0,
@@ -205,7 +205,7 @@
       97.75,
       92.48,
       92.97,
-      91.21
+      91.06
     ]
   }
 }
