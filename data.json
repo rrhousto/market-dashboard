@@ -1,5 +1,5 @@
 {
-  "asOf": "Nov 17, 2026 22:47 UTC",
+  "asOf": "Nov 18, 2026 02:44 UTC",
   "indices": {
     "spx": {
       "val": "7,341",
@@ -96,7 +96,7 @@
     },
     {
       "label": "WTI Crude",
-      "val": "$85.6",
+      "val": "$85.1",
       "note": "real-time futures",
       "cls": "neg"
     }
