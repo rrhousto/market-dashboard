@@ -1,23 +1,23 @@
 {
-  "asOf": "Nov 21, 2026 01:58 UTC",
+  "asOf": "Nov 24, 2026 02:01 UTC",
   "indices": {
     "spx": {
-      "val": "6,910",
-      "chg": "-3.7%",
-      "ytd": "+0.8%"
+      "val": "7,237",
+      "chg": "+4.73%",
+      "ytd": "+5.5%"
     },
     "ndx": {
-      "val": "22,618",
-      "chg": "-5.28%",
-      "ytd": "-2.7%"
+      "val": "24,090",
+      "chg": "+6.51%",
+      "ytd": "+3.7%"
     },
     "rut": {
-      "val": "2,582",
-      "chg": "-2.76%",
-      "ytd": "+2.9%"
+      "val": "2,670",
+      "chg": "+3.4%",
+      "ytd": "+6.4%"
     },
     "vix": {
-      "val": "35.89",
+      "val": "26.62",
       "note": "elevated \u00b7 caution"
     }
   },
@@ -75,13 +75,13 @@
     },
     {
       "label": "10Y Treasury",
-      "val": "4.91%",
+      "val": "4.92%",
       "note": "real-time via yfinance"
     },
     {
       "label": "2Y Treasury",
-      "val": "4.55%",
-      "note": "spread: +79bps"
+      "val": "4.56%",
+      "note": "spread: +77bps"
     },
     {
       "label": "CPI (Jan YoY)",
@@ -96,7 +96,7 @@
     },
     {
       "label": "WTI Crude",
-      "val": "$83.6",
+      "val": "$79.8",
       "note": "real-time futures",
       "cls": "neg"
     }
@@ -152,7 +152,7 @@
     {
       "color": "#e24b4a",
       "text": "High volatility alert",
-      "sub": "VIX 35.9 \u2014 fear elevated, consider hedges"
+      "sub": "VIX 26.6 \u2014 fear elevated, consider hedges"
     },
     {
       "color": "#1d9e75",
@@ -167,12 +167,12 @@
     {
       "color": "#1d9e75",
       "text": "Yield curve steepening",
-      "sub": "10Y\u20132Y spread 79bps \u2014 normalizing"
+      "sub": "10Y\u20132Y spread 77bps \u2014 normalizing"
     }
   ],
   "yieldCurve": {
-    "bps": 79,
-    "pct": 90
+    "bps": 77,
+    "pct": 88
   },
   "perfChart": {
     "labels": [
@@ -189,7 +189,7 @@
       102.49,
       102.03,
       101.08,
-      92.15
+      96.5
     ],
     "ndx": [
       100.0,
@@ -197,7 +197,7 @@
       100.6,
       102.47,
       97.04,
-      86.28
+      91.9
     ],
     "rut": [
       100.0,
@@ -205,7 +205,7 @@
       97.75,
       92.48,
       92.97,
-      85.37
+      88.27
     ]
   }
 }
